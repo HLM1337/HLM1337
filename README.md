@@ -83,7 +83,7 @@ me.execute_daily_routine()
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=FF00FF)](https://github.com/HLM1337)
-[![Gmail](https://img.shields.io/badge/-GMAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djh130617@gmail.com)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
