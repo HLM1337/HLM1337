@@ -82,12 +82,9 @@ me.execute_daily_routine()
 ## 🐍 量子轨迹 | Quantum Trail
 <div align="center">
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HLM1337/HLM1337/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HLM1337/HLM1337/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HLM1337/HLM1337/output/github-contribution-grid-snake.svg">
-</picture>
-
+![Snake animation](https://github.com/HLM1337/HLM1337/blob/output/github-snake.svg)
+![Snake animation](https://github.com/HLM1337/HLM1337/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+  
 </div>
 
 ## 🤝 量子通讯 | Quantum Communication
